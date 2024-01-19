@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "heaven:angelic_plains",
+    {
+      "id": "heaven:angelic_plains",
+      "required": false
+    }
+  ]
+}

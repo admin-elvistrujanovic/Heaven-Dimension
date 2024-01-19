@@ -1,0 +1,53 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "heaven:chests/heaven_village/armorer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "heaven:chests/heaven_village/weaponsmith"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "heaven:chests/heaven_village/tannery"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "heaven:chests/heaven_village/cartographer"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "heaven:chests/heaven_village/mason"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "heaven:chests/heaven_village/temple"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "heaven:chests/heaven_village/butcher"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "heaven:chests/heaven_village/librarian"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "heaven:chests/heaven_village/toolsmith"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "heaven:chests/heaven_village/farm"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "heaven:chests/heaven_village/fletcher"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "heaven:angelic_forest",
+    {
+      "id": "heaven:angelic_forest",
+      "required": false
+    }
+  ]
+}
